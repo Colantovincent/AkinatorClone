@@ -3,4 +3,39 @@ body{
 }
 h1{
     font-weight: bold;
+    padding-bottom: 40px;
+}
+.pre{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#container{
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+.stylish-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #58ff52;
+    border: 2px solid #000;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px #000;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.stylish-button:hover {
+    background-color: #fff;
+    color: #52ff9a;
+    border: 2px solid #52ffae;
+    box-shadow: 5px 5px 0px #52ffb7;
+}
+.stylish-button:active {
+    background-color: #013a08;
+    box-shadow: none;
+    transform: translateY(4px);
 }
