@@ -24,6 +24,14 @@
         "nazione": "America"
     },
     {
+        "nome": "Jeff Bezos",
+        "epoca": "contemporanea",
+        "ruolo": "Imprenditore",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "America"
+    },
+    {
         "nome": "Samuel Altman",
         "epoca": "contemporanea",
         "ruolo": "Ingegnere",
@@ -64,12 +72,52 @@
         "nazione": "Italia"
     },
     {
+        "nome": "Isaac Newton",
+        "epoca": "rinascimentale",
+        "ruolo": "Scienziato",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Inghilterra"
+    },
+    {
+        "nome": "José de Acosta",
+        "epoca": "rinascimentale",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Spagna"
+    },
+    {
+        "nome": "Marie Curie",
+        "epoca": "restaurazione",
+        "ruolo": "Scienziato",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Francia"
+    },
+    {
         "nome": "Vincent Van Gogh",
         "epoca": "restaurazione",
         "ruolo": "Artista",
         "sesso": true,
         "vivo": false,
         "nazione": "Olanda"
+    },
+    {
+        "nome": "Giuseppe Verdi",
+        "epoca": "restaurazione",
+        "ruolo": "Musicista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia"
+    },
+    {
+        "nome": "Charlotte Bronte",
+        "epoca": "restaurazione",
+        "ruolo": "Scrittore",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Inghilterra"
     },
     {
         "nome": "Emily Dickinson",
@@ -102,6 +150,22 @@
         "sesso": false,
         "vivo": false,
         "nazione": "Grecia"
+    },
+    {
+        "nome": "William Shakespeare",
+        "epoca": "rinascimentale",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Inghilterra"
+    },
+    {
+        "nome": "Macchiavelli",
+        "epoca": "rinascimentale",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia"
     },
     {
         "nome": "Virgilio",
