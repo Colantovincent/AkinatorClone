@@ -34,6 +34,16 @@ h1{
     border: 2px solid #52ffae;
     box-shadow: 5px 5px 0px #52ffb7;
 }
+.red{
+    background-color: red;
+
+}
+.red:hover{
+    background-color: #fff;
+    color: #ff2600;
+    border: 2px solid #ff6652;
+    box-shadow: 5px 5px 0px #e77f7f;
+}
 .stylish-button:active {
     background-color: #013a08;
     box-shadow: none;
