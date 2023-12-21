@@ -1,5 +1,7 @@
 body{
     text-align: center;
+    background-color: #0C134F;
+    color: #a99bd4; 
 }
 h1{
     font-weight: bold;
@@ -21,28 +23,28 @@ pre{
     text-align: center;
     text-decoration: none;
     color: #fff;
-    background-color: #58ff52;
+    background-color: #D4ADfC;
     border: 2px solid #000;
     border-radius: 10px;
-    box-shadow: 5px 5px 0px #000;
+    box-shadow: 5px 5px 0px #362980;
     transition: all 0.3s ease;
     cursor: pointer;
 }
 .stylish-button:hover {
     background-color: #fff;
-    color: #52ff9a;
-    border: 2px solid #52ffae;
-    box-shadow: 5px 5px 0px #52ffb7;
+    color: #d5c2e7;
+    border: 2px solid #a48db9;
+    box-shadow: 5px 5px 0px #d5c7e2;
 }
 .stylish-button:active {
-    background-color: #013a08;
+    background-color: #000000;
     box-shadow: none;
     transform: translateY(4px);
 }
-.red{
-    background-color: red;
+.negative{
+    background-color: #1D267D;
 }
-.red:hover{
+.negative:hover{
     background-color: #fff;
     color: #ff2600;
     border: 2px solid #ff6652;
