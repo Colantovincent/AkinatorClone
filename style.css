@@ -5,18 +5,18 @@ h1{
     font-weight: bold;
     padding-bottom: 40px;
 }
-.pre{
+pre{
     font-weight: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-#container{
+.container{
     padding-bottom: 5px;
     padding-top: 10px;
 }
 .stylish-button {
     display: inline-block;
     padding: 10px 20px;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
@@ -34,9 +34,13 @@ h1{
     border: 2px solid #52ffae;
     box-shadow: 5px 5px 0px #52ffb7;
 }
+.stylish-button:active {
+    background-color: #013a08;
+    box-shadow: none;
+    transform: translateY(4px);
+}
 .red{
     background-color: red;
-
 }
 .red:hover{
     background-color: #fff;
@@ -44,8 +48,12 @@ h1{
     border: 2px solid #ff6652;
     box-shadow: 5px 5px 0px #e77f7f;
 }
-.stylish-button:active {
-    background-color: #013a08;
-    box-shadow: none;
-    transform: translateY(4px);
+.blue{
+    background-color: rgb(74, 74, 235);
+}
+.blue:hover{
+    background-color: #fff;
+    color: #006eff;
+    border: 2px solid #527aff;
+    box-shadow: 5px 5px 0px #7f97e7;
 }

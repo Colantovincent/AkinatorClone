@@ -158,5 +158,6 @@ const setEvent = () => {
         risposta.textContent = "";
         persona = [...persone];
         domandePossibili = [...domande];
+        cambiaDomanda();
     });
 };
