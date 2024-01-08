@@ -102,15 +102,8 @@ const domande = [
         nazione: "Inghilterra"
     }
 ];
-let persone;
-async function fetching() {
-    try {
-        fetch("./data.json").then(response => response.json()).then(data =>{persone = data; setEvent()});
-    } catch (error) {
-        console.error("Errore: " + error);
-    }
-}
-fetching();
+const temp = await fetch('./data.json');
+const persone = await temp.json();
 const setEvent = () => {
     let i, parametro, persona = [...persone], domandePossibili = [...domande];
     const cambiaDomanda = () => {
@@ -125,15 +118,15 @@ const setEvent = () => {
             for (let el in persona) {
                 risposta.textContent += el.nome + "\n";
             }
-            happy.src = "/resources/cat.gif";
+            happy.src = "./cat.gif";
             happy.alt = "Happy Happy Happy";
         } else if (persona.length === 0) {
             risposta.textContent = "Wo-ho something went wrong~";
-            happy.src = "/resources/fyou.png";
+            happy.src = "./fyou.png";
             happy.alt = "F* you";
         } else {
             risposta.textContent = persona[0].nome; 
-            happy.src = "/resources/cat.gif";
+            happy.src = "./cat.gif";
             happy.alt = "Happy Happy Happy";
         }
         si.disabled = true;
@@ -161,3 +154,4 @@ const setEvent = () => {
         cambiaDomanda();
     });
 };
+window.addEventListener("load", setEvent());
