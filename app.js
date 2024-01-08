@@ -114,12 +114,11 @@ fetching();
 const setEvent = () => {
     let i, parametro, persona = [...persone], domandePossibili = [...domande];
     const cambiaDomanda = () => {
-        console.log(persona);
         i = Math.floor(Math.random() * (domandePossibili.length - 1));
         domanda.textContent = "Il tuo personaggio " + domandePossibili[i].text;
         parametro = Object.keys(domandePossibili[i])[1];
     };
-    cambiaDomanda();
+    window.addEventListener("load", cambiaDomanda());
     const endProgram = () => {
         if (persona.length >= 2) {
             for (let el in persona) {
@@ -139,7 +138,7 @@ const setEvent = () => {
         si.disabled = true;
         no.disabled = true;
         happy.hidden = false;
-    };
+    };  
     si.addEventListener("click", () => {
         persona = persona.filter((el) => el[parametro] === domandePossibili[i][parametro]);
         domandePossibili.splice(i, 1);
