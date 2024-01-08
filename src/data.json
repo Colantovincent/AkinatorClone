@@ -1,0 +1,250 @@
+[
+    {
+        "nome": "Michael Jackson",
+        "epoca": "contemporanea",
+        "ruolo": "Musicista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "America"
+    },
+    {
+        "nome": "Bjarne Stroustrup",
+        "epoca": "contemporanea",
+        "ruolo": "Ingegnere",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "Danimarca"
+    },
+    {
+        "nome": "Bill Gates",
+        "epoca": "contemporanea",
+        "ruolo": "Imprenditore",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "America"
+    },
+    {
+        "nome": "Jeff Bezos",
+        "epoca": "contemporanea",
+        "ruolo": "Imprenditore",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "America"
+    },
+    {
+        "nome": "Samuel Altman",
+        "epoca": "contemporanea",
+        "ruolo": "Ingegnere",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "America"
+    },
+    {
+        "nome": "Brendan Eich",
+        "epoca": "contemporanea",
+        "ruolo": "Programmatore",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "America"
+    },
+    {
+        "nome": "Katherine Johnson",
+        "epoca": "contemporanea",
+        "ruolo": "Matematico",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "America"
+    },
+    {
+        "nome": "Samantha Cristoforetti",
+        "epoca": "contemporanea",
+        "ruolo": "Astronauta",
+        "sesso": false,
+        "vivo": true,
+        "nazione": "Italia"
+    },
+    {
+        "nome": "Leonardo da Vinci",
+        "epoca": "rinascimentale",
+        "ruolo": "Scienziato",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia"
+    },
+    {
+        "nome": "Isaac Newton",
+        "epoca": "rinascimentale",
+        "ruolo": "Scienziato",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Inghilterra"
+    },
+    {
+        "nome": "José de Acosta",
+        "epoca": "rinascimentale",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Spagna"
+    },
+    {
+        "nome": "Marie Curie",
+        "epoca": "restaurazione",
+        "ruolo": "Scienziato",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Francia"
+    },
+    {
+        "nome": "Vincent Van Gogh",
+        "epoca": "restaurazione",
+        "ruolo": "Artista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Olanda"
+    },
+    {
+        "nome": "Giuseppe Verdi",
+        "epoca": "restaurazione",
+        "ruolo": "Musicista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia"
+    },
+    {
+        "nome": "Charlotte Bronte",
+        "epoca": "restaurazione",
+        "ruolo": "Scrittore",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Inghilterra"
+    },
+    {
+        "nome": "Emily Dickinson",
+        "epoca": "restaurazione",
+        "ruolo": "Poeta",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "America"
+    },
+    {
+        "nome": "Frida Kahlo",
+        "epoca": "contemporanea",
+        "ruolo": "Artista",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Messico"
+    },
+    {
+        "nome": "Pablo Picasso",
+        "epoca": "restaurazione",
+        "ruolo": "Artista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Spagna"
+    },
+    {
+        "nome": "Saffo",
+        "epoca": "avanti cristo",
+        "ruolo": "Poeta",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Grecia"
+    },
+    {
+        "nome": "William Shakespeare",
+        "epoca": "rinascimentale",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Inghilterra"
+    },
+    {
+        "nome": "Macchiavelli",
+        "epoca": "rinascimentale",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia"
+    },
+    {
+        "nome": "Virgilio",
+        "epoca": "avanti cristo",
+        "ruolo": "Poeta",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia"
+    },
+    {
+        "nome": "Enrique Iglesias",
+        "epoca": "contemporanea",
+        "ruolo": "Musicista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Spagna"
+    },
+    {
+        "nome": "Hideo Kojima",
+        "epoca": "contemporanea",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "Giappone"
+    },
+    {
+        "nome": "Alexandre Dumas",
+        "epoca": "restaurazione",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Francia"
+    },
+    {
+        "nome": "J. K. Rowling",
+        "epoca": "contemporanea",
+        "ruolo": "Scrittore",
+        "sesso": false,
+        "vivo": true,
+        "nazione": "Inghilterra"
+    },
+    {
+        "nome": "Pitagora",
+        "epoca": "avanti cristo",
+        "ruolo": "Matematico",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Grecia"
+    },
+    {
+        "nome": "Ferdinand Porsche",
+        "epoca": "restaurazione",
+        "ruolo": "Ingegnere",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Repubblica Ceca"
+    },
+    {
+        "nome": "Antonin Leopold Dvorak",
+        "epoca": "restaurazione",
+        "ruolo": "Musicista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Repubblica Ceca"
+    },
+    {
+        "nome": "Murasaki Shibiku",
+        "epoca": "medioevo",
+        "ruolo": "Scrittore",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Giappone"
+    },
+    {
+        "nome": "Enzo Ferrari",
+        "epoca": "contemporanea",
+        "ruolo": "Ingegnere",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia"
+    }
+]
