@@ -1,7 +1,7 @@
 body{
     text-align: center;
-    background-color: #0C134F;
-    color: #a99bd4; 
+    background-color: #ffffff;
+    color: #000000; 
 }
 h1{
     font-weight: bold;
@@ -23,18 +23,18 @@ pre{
     text-align: center;
     text-decoration: none;
     color: #fff;
-    background-color: #D4ADfC;
+    background-color: #20c728;
     border: 2px solid #000;
     border-radius: 10px;
-    box-shadow: 5px 5px 0px #362980;
+    box-shadow: 5px 5px 0px #000000;
     transition: all 0.3s ease;
     cursor: pointer;
 }
 .stylish-button:hover {
     background-color: #fff;
-    color: #d5c2e7;
-    border: 2px solid #a48db9;
-    box-shadow: 5px 5px 0px #d5c7e2;
+    color: #0f954d;
+    border: 2px solid #237e3e;
+    box-shadow: 5px 5px 0px #000000;
 }
 .stylish-button:active {
     background-color: #000000;
@@ -42,13 +42,13 @@ pre{
     transform: translateY(4px);
 }
 .negative{
-    background-color: #1D267D;
+    background-color: #840909;
 }
 .negative:hover{
     background-color: #fff;
-    color: #2c3580;
-    border: 2px solid #2c3580;
-    box-shadow: 5px 5px 0px #7c80a7;
+    color: #750f0f;
+    border: 2px solid #660808;
+    box-shadow: 5px 5px 0px #970a0a;
 }
 .blue{
     background-color: rgb(74, 74, 235);
@@ -62,7 +62,7 @@ pre{
 .center{
     height: 73vh;
     margin: 0 auto;
-    border: 3px solid #d5b6f3;
+    border: 3px solid #000000;
     border-radius: 24px;
 }
 .img-fluid {
