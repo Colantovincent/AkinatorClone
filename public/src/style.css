@@ -68,3 +68,7 @@ pre{
 .img-fluid {
     height: 280px;
 }
+.normal-link {
+     text-decoration: none;
+     color: #fff;
+}

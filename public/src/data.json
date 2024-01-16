@@ -5,7 +5,9 @@
         "ruolo": "Musicista",
         "sesso": true,
         "vivo": false,
-        "nazione": "America"
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": true
     },
     {
         "nome": "Bjarne Stroustrup",
@@ -13,7 +15,9 @@
         "ruolo": "Ingegnere",
         "sesso": true,
         "vivo": true,
-        "nazione": "Danimarca"
+        "nazione": "Danimarca",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Bill Gates",
@@ -21,7 +25,9 @@
         "ruolo": "Imprenditore",
         "sesso": true,
         "vivo": true,
-        "nazione": "America"
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": true
     },
     {
         "nome": "Jeff Bezos",
@@ -29,7 +35,9 @@
         "ruolo": "Imprenditore",
         "sesso": true,
         "vivo": true,
-        "nazione": "America"
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Samuel Altman",
@@ -37,7 +45,9 @@
         "ruolo": "Ingegnere",
         "sesso": true,
         "vivo": true,
-        "nazione": "America"
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Brendan Eich",
@@ -45,7 +55,9 @@
         "ruolo": "Programmatore",
         "sesso": true,
         "vivo": true,
-        "nazione": "America"
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Katherine Johnson",
@@ -53,7 +65,9 @@
         "ruolo": "Matematico",
         "sesso": false,
         "vivo": false,
-        "nazione": "America"
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": true
     },
     {
         "nome": "Samantha Cristoforetti",
@@ -61,7 +75,9 @@
         "ruolo": "Astronauta",
         "sesso": false,
         "vivo": true,
-        "nazione": "Italia"
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": true
     },
     {
         "nome": "Leonardo da Vinci",
@@ -69,7 +85,9 @@
         "ruolo": "Scienziato",
         "sesso": true,
         "vivo": false,
-        "nazione": "Italia"
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Isaac Newton",
@@ -77,7 +95,9 @@
         "ruolo": "Scienziato",
         "sesso": true,
         "vivo": false,
-        "nazione": "Inghilterra"
+        "nazione": "Inghilterra",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "José de Acosta",
@@ -85,7 +105,8 @@
         "ruolo": "Scrittore",
         "sesso": true,
         "vivo": false,
-        "nazione": "Spagna"
+        "nazione": "Spagna",
+        "nobel": false
     },
     {
         "nome": "Marie Curie",
@@ -93,7 +114,8 @@
         "ruolo": "Scienziato",
         "sesso": false,
         "vivo": false,
-        "nazione": "Francia"
+        "nazione": "Francia",
+        "nobel": false
     },
     {
         "nome": "Vincent Van Gogh",
@@ -101,7 +123,8 @@
         "ruolo": "Artista",
         "sesso": true,
         "vivo": false,
-        "nazione": "Olanda"
+        "nazione": "Olanda",
+        "nobel": false
     },
     {
         "nome": "Giuseppe Verdi",
@@ -109,7 +132,8 @@
         "ruolo": "Musicista",
         "sesso": true,
         "vivo": false,
-        "nazione": "Italia"
+        "nazione": "Italia",
+        "nobel": false
     },
     {
         "nome": "Charlotte Bronte",
@@ -117,7 +141,8 @@
         "ruolo": "Scrittore",
         "sesso": false,
         "vivo": false,
-        "nazione": "Inghilterra"
+        "nazione": "Inghilterra",
+        "nobel": false
     },
     {
         "nome": "Emily Dickinson",
@@ -125,7 +150,8 @@
         "ruolo": "Poeta",
         "sesso": false,
         "vivo": false,
-        "nazione": "America"
+        "nazione": "America",
+        "nobel": false
     },
     {
         "nome": "Frida Kahlo",
@@ -133,7 +159,8 @@
         "ruolo": "Artista",
         "sesso": false,
         "vivo": false,
-        "nazione": "Messico"
+        "nazione": "Messico",
+        "nobel": false
     },
     {
         "nome": "Pablo Picasso",
@@ -141,7 +168,9 @@
         "ruolo": "Artista",
         "sesso": true,
         "vivo": false,
-        "nazione": "Spagna"
+        "nazione": "Spagna",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Saffo",
@@ -149,7 +178,9 @@
         "ruolo": "Poeta",
         "sesso": false,
         "vivo": false,
-        "nazione": "Grecia"
+        "nazione": "Grecia",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "William Shakespeare",
@@ -157,7 +188,9 @@
         "ruolo": "Scrittore",
         "sesso": true,
         "vivo": false,
-        "nazione": "Inghilterra"
+        "nazione": "Inghilterra",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Macchiavelli",
@@ -165,7 +198,9 @@
         "ruolo": "Scrittore",
         "sesso": true,
         "vivo": false,
-        "nazione": "Italia"
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Virgilio",
@@ -173,7 +208,9 @@
         "ruolo": "Poeta",
         "sesso": true,
         "vivo": false,
-        "nazione": "Italia"
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Enrique Iglesias",
@@ -181,7 +218,9 @@
         "ruolo": "Musicista",
         "sesso": true,
         "vivo": false,
-        "nazione": "Spagna"
+        "nazione": "Spagna",
+        "nobel": false,
+        "riconoscimento": true
     },
     {
         "nome": "Hideo Kojima",
@@ -189,7 +228,9 @@
         "ruolo": "Scrittore",
         "sesso": true,
         "vivo": true,
-        "nazione": "Giappone"
+        "nazione": "Giappone",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Alexandre Dumas",
@@ -197,7 +238,9 @@
         "ruolo": "Scrittore",
         "sesso": true,
         "vivo": false,
-        "nazione": "Francia"
+        "nazione": "Francia",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "J. K. Rowling",
@@ -205,7 +248,9 @@
         "ruolo": "Scrittore",
         "sesso": false,
         "vivo": true,
-        "nazione": "Inghilterra"
+        "nazione": "Inghilterra",
+        "nobel": false,
+        "riconoscimento": true
     },
     {
         "nome": "Pitagora",
@@ -213,7 +258,9 @@
         "ruolo": "Matematico",
         "sesso": true,
         "vivo": false,
-        "nazione": "Grecia"
+        "nazione": "Grecia",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Ferdinand Porsche",
@@ -221,7 +268,9 @@
         "ruolo": "Ingegnere",
         "sesso": true,
         "vivo": false,
-        "nazione": "Repubblica Ceca"
+        "nazione": "Repubblica Ceca",
+        "nobel": false,
+        "riconoscimento": true
     },
     {
         "nome": "Antonin Leopold Dvorak",
@@ -229,7 +278,9 @@
         "ruolo": "Musicista",
         "sesso": true,
         "vivo": false,
-        "nazione": "Repubblica Ceca"
+        "nazione": "Repubblica Ceca",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Murasaki Shibiku",
@@ -237,7 +288,9 @@
         "ruolo": "Scrittore",
         "sesso": false,
         "vivo": false,
-        "nazione": "Giappone"
+        "nazione": "Giappone",
+        "nobel": false,
+        "riconoscimento": false
     },
     {
         "nome": "Enzo Ferrari",
@@ -245,6 +298,8 @@
         "ruolo": "Ingegnere",
         "sesso": true,
         "vivo": false,
-        "nazione": "Italia"
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": true
     }
 ]

@@ -4,6 +4,7 @@ const domanda = document.getElementById("domanda");
 const risposta = document.getElementById("risposta");
 const restart = document.getElementById("restart");
 const happy = document.querySelector(".img-fluid");
+//Sesso è un booleano dove true rappresenta l'uomo, false la donna
 const domande = [
     {
         text: "è vivo?",
@@ -100,6 +101,14 @@ const domande = [
     {
         text: "è inglese?",
         nazione: "Inghilterra"
+    },
+    {
+        text: "ha vinto il nobel?",
+        nobel: true
+    },
+    {
+        text: "ha ricevuto un riconoscimento quale cavaliere per le sue imprese o un riconoscimento musicale quale disco d'oro/platino?",
+        riconoscimento: true
     }
 ];
 const temp = await fetch('./data.json');
@@ -154,4 +163,5 @@ const setEvent = () => {
         cambiaDomanda();
     });
 };
+console.log(persone.length); 
 window.addEventListener("load", setEvent());
