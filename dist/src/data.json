@@ -1,0 +1,305 @@
+[
+    {
+        "nome": "Michael Jackson",
+        "epoca": "contemporanea",
+        "ruolo": "Musicista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": true
+    },
+    {
+        "nome": "Bjarne Stroustrup",
+        "epoca": "contemporanea",
+        "ruolo": "Ingegnere",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "Danimarca",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Bill Gates",
+        "epoca": "contemporanea",
+        "ruolo": "Imprenditore",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": true
+    },
+    {
+        "nome": "Jeff Bezos",
+        "epoca": "contemporanea",
+        "ruolo": "Imprenditore",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Samuel Altman",
+        "epoca": "contemporanea",
+        "ruolo": "Ingegnere",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Brendan Eich",
+        "epoca": "contemporanea",
+        "ruolo": "Programmatore",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Katherine Johnson",
+        "epoca": "contemporanea",
+        "ruolo": "Matematico",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "America",
+        "nobel": false,
+        "riconoscimento": true
+    },
+    {
+        "nome": "Samantha Cristoforetti",
+        "epoca": "contemporanea",
+        "ruolo": "Astronauta",
+        "sesso": false,
+        "vivo": true,
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": true
+    },
+    {
+        "nome": "Leonardo da Vinci",
+        "epoca": "rinascimentale",
+        "ruolo": "Scienziato",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Isaac Newton",
+        "epoca": "rinascimentale",
+        "ruolo": "Scienziato",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Inghilterra",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "José de Acosta",
+        "epoca": "rinascimentale",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Spagna",
+        "nobel": false
+    },
+    {
+        "nome": "Marie Curie",
+        "epoca": "restaurazione",
+        "ruolo": "Scienziato",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Francia",
+        "nobel": false
+    },
+    {
+        "nome": "Vincent Van Gogh",
+        "epoca": "restaurazione",
+        "ruolo": "Artista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Olanda",
+        "nobel": false
+    },
+    {
+        "nome": "Giuseppe Verdi",
+        "epoca": "restaurazione",
+        "ruolo": "Musicista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia",
+        "nobel": false
+    },
+    {
+        "nome": "Charlotte Bronte",
+        "epoca": "restaurazione",
+        "ruolo": "Scrittore",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Inghilterra",
+        "nobel": false
+    },
+    {
+        "nome": "Emily Dickinson",
+        "epoca": "restaurazione",
+        "ruolo": "Poeta",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "America",
+        "nobel": false
+    },
+    {
+        "nome": "Frida Kahlo",
+        "epoca": "contemporanea",
+        "ruolo": "Artista",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Messico",
+        "nobel": false
+    },
+    {
+        "nome": "Pablo Picasso",
+        "epoca": "restaurazione",
+        "ruolo": "Artista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Spagna",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Saffo",
+        "epoca": "avanti cristo",
+        "ruolo": "Poeta",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Grecia",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "William Shakespeare",
+        "epoca": "rinascimentale",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Inghilterra",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Macchiavelli",
+        "epoca": "rinascimentale",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Virgilio",
+        "epoca": "avanti cristo",
+        "ruolo": "Poeta",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Enrique Iglesias",
+        "epoca": "contemporanea",
+        "ruolo": "Musicista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Spagna",
+        "nobel": false,
+        "riconoscimento": true
+    },
+    {
+        "nome": "Hideo Kojima",
+        "epoca": "contemporanea",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": true,
+        "nazione": "Giappone",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Alexandre Dumas",
+        "epoca": "restaurazione",
+        "ruolo": "Scrittore",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Francia",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "J. K. Rowling",
+        "epoca": "contemporanea",
+        "ruolo": "Scrittore",
+        "sesso": false,
+        "vivo": true,
+        "nazione": "Inghilterra",
+        "nobel": false,
+        "riconoscimento": true
+    },
+    {
+        "nome": "Pitagora",
+        "epoca": "avanti cristo",
+        "ruolo": "Matematico",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Grecia",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Ferdinand Porsche",
+        "epoca": "restaurazione",
+        "ruolo": "Ingegnere",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Repubblica Ceca",
+        "nobel": false,
+        "riconoscimento": true
+    },
+    {
+        "nome": "Antonin Leopold Dvorak",
+        "epoca": "restaurazione",
+        "ruolo": "Musicista",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Repubblica Ceca",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Murasaki Shibiku",
+        "epoca": "medioevo",
+        "ruolo": "Scrittore",
+        "sesso": false,
+        "vivo": false,
+        "nazione": "Giappone",
+        "nobel": false,
+        "riconoscimento": false
+    },
+    {
+        "nome": "Enzo Ferrari",
+        "epoca": "contemporanea",
+        "ruolo": "Ingegnere",
+        "sesso": true,
+        "vivo": false,
+        "nazione": "Italia",
+        "nobel": false,
+        "riconoscimento": true
+    }
+]
